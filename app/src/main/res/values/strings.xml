@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica7</string>
+    <string name="ver_conferencia">Ver conferencia</string>
+    <string name="empresa">Empresa</string>
+    <string name="salir">Salir</string>
+    <string name="dialogConferenciaFecha">Fecha:</string>
+    <string name="dialogConferenciaHora">Horario:</string>
+    <string name="dialogConferenciaSala">Sala:</string>
+    <string name="conferencias">Conferencias:</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar</string>
+</resources>
